@@ -1,5 +1,5 @@
 {
-	"spider":"./pg.jar",
+	"spider":"./lib/GM.jar",
 	"sites":[
 {
     "key": "Jable",
