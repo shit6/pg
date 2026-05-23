@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260523 05:06,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+20260524 04:42,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 
 
 央视频道,#genre#
@@ -16,9 +16,9 @@ CCTV1,http://58.57.40.22:9901/tsfile/live/0001_1.m3u8
 CCTV1,http://222.169.85.8:9901/tsfile/live/0001_1.m3u8
 CCTV1,http://124.116.183.146:9901/tsfile/live/0001_1.m3u8
 CCTV1,http://182.150.23.74:808/hls/1/index.m3u8
-CCTV1,http://123.130.84.106:8154/tsfile/live/0001_1.m3u8
-CCTV1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
-CCTV1,http://101.66.198.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV1,http://120.76.248.139/live/bfgd/4200000201.m3u8
+CCTV1,http://120.76.248.139/live/bfgd/4200000489.m3u8
+CCTV1,http://120.76.248.139/live/bfgd/4200000488.m3u8
 CCTV1,http://106.53.99.30/tv/jzb.php?id=cctv1
 CCTV1,http://39.164.174.139:5000/nl.m3u8?id=CCTV-1HD
 CCTV1,http://8.138.7.223/tv/migu3.php?id=cctv1
@@ -46,8 +46,7 @@ CCTV2,http://112.27.235.94:8000/hls/2/index.m3u8
 CCTV2,http://222.169.85.8:9901/tsfile/live/0002_1.m3u8
 CCTV2,http://218.13.170.98:9901/tsfile/live/0002_1.m3u8
 CCTV2,https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
-CCTV2,http://123.130.84.106:8154/tsfile/live/0002_1.m3u8
-CCTV2,http://61.136.172.236:9901/tsfile/live/0002_1.m3u8
+CCTV2,http://120.76.248.139/live/bfgd/4200000061.m3u8
 CCTV2,http://106.53.99.30/tv/jzb.php?id=cctv2
 CCTV2,http://39.164.174.139:5000/nl.m3u8?id=CCTV-2HD
 CCTV2,http://8.138.7.223/tv/migu3.php?id=cctv2
@@ -72,9 +71,7 @@ CCTV3,http://58.57.40.22:9901/tsfile/live/1002_1.m3u8
 CCTV3,http://112.27.235.94:8000/hls/3/index.m3u8
 CCTV3,http://gmxw.7766.org:808/hls/91/index.m3u8
 CCTV3,https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
-CCTV3,http://123.130.84.106:8154/tsfile/live/0003_1.m3u8
-CCTV3,http://61.136.172.236:9901/tsfile/live/0003_1.m3u8
-CCTV3,http://59.39.89.130:60901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://120.76.248.139/live/bfgd/4200000062.m3u8
 CCTV3,http://106.53.99.30/tv/jzb.php?id=cctv3
 CCTV3,http://39.164.174.139:5000/nl.m3u8?id=CCTV-3
 CCTV3,http://8.138.7.223/tv/migu3.php?id=cctv3
@@ -101,8 +98,9 @@ CCTV4,http://112.46.85.60:8009/hls/4/index.m3u8
 CCTV4,http://123.129.70.178:9901/tsfile/live/0004_1.m3u8
 CCTV4,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
 CCTV4,https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
+CCTV4,http://120.76.248.139/live/bfgd/4200000063.m3u8
+CCTV4,http://182.150.23.74:808/hls/4/index.m3u8
 CCTV4,http://123.130.84.106:8154/tsfile/live/0004_1.m3u8
-CCTV4,http://183.11.239.36:808/hls/22/index.m3u8
 CCTV4,http://106.53.99.30/tv/jzb.php?id=cctv4
 CCTV4,http://8.138.7.223/tv/migu3.php?id=cctv4
 CCTV4,http://8.138.7.223/tv/migu3.php?id=cctv4a
@@ -115,7 +113,7 @@ CCTV4,http://113.15.109.216:59901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&
 CCTV4,http://58.17.48.228:808/hls/4/index.m3u8
 CCTV4,http://123.182.60.29:9002/hls/4/index.m3u8
 CCTV4,http://116.9.204.242:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,https://t.freetv.fun/live/cctv4-8.m3u8
+CCTV4,http://183.11.239.36:808/hls/22/index.m3u8
 CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV5,http://39.134.67.108/PLTV/88888888/224/3221225818/1.m3u8
 CCTV5,https://t.freetv.fun/live/cctv5-10.m3u8
@@ -129,8 +127,7 @@ CCTV5,http://123.129.70.178:9901/tsfile/live/0005_1.m3u8
 CCTV5,http://112.46.85.60:8009/hls/503/index.m3u8
 CCTV5,http://live.aishang.ctlcdn.com/00000110240281_1/playlist.m3u8?CONTENTID=00000110240281_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV5,https://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000
-CCTV5,http://183.11.239.36:808/hls/93/index.m3u8
-CCTV5,http://123.130.84.106:8154/tsfile/live/0005_1.m3u8
+CCTV5,http://120.76.248.139/live/bfgd/4200000064.m3u8
 CCTV5,http://106.53.99.30/tv/jzb.php?id=cctv5
 CCTV5,http://39.164.174.139:5000/nl.m3u8?id=CCTV-5HD
 CCTV5,http://8.138.7.223/tv/migu3.php?id=cctv5
@@ -141,7 +138,9 @@ CCTV5,http://113.15.109.216:59901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&
 CCTV5,http://58.17.48.228:808/hls/5/index.m3u8
 CCTV5,http://123.182.60.29:9002/hls/7/index.m3u8
 CCTV5,http://116.9.204.242:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://183.11.239.36:808/hls/93/index.m3u8
 CCTV5,http://113.64.146.99:9901/hls/22/index.m3u8
+CCTV5,https://t.freetv.fun/live/cctv5-9.m3u8
 CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV5+,http://39.134.67.108/PLTV/88888888/224/3221225507/1.m3u8
 CCTV5+,http://192.151.150.154/live/cctv5p.m3u8
@@ -154,8 +153,8 @@ CCTV5+,http://120.76.248.139/live/bfgd/4200000246.m3u8
 CCTV5+,http://182.150.23.74:808/hls/16/index.m3u8
 CCTV5+,http://cssbyd.imwork.net:8082/hls/6/index.m3u8
 CCTV5+,https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
-CCTV5+,http://74.91.26.218:82/live/cctv5p.m3u8
 CCTV5+,http://123.129.70.178:9901/tsfile/live/0016_1.m3u8
+CCTV5+,http://123.130.84.106:8154/tsfile/live/0016_1.m3u8
 CCTV5+,http://106.53.99.30/tv/jzb.php?id=cctv5plus
 CCTV5+,http://39.164.174.139:5000/nl.m3u8?id=CCTV-5PHD
 CCTV5+,http://8.138.7.223/tv/migu3.php?id=cctv5p
@@ -173,7 +172,7 @@ CCTV6,http://123.129.70.178:9901/tsfile/live/0006_1.m3u8
 CCTV6,http://183.11.239.36:808/hls/94/index.m3u8
 CCTV6,https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
 CCTV6,http://123.130.84.106:8154/tsfile/live/0006_1.m3u8
-CCTV6,http://101.66.198.83:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV6,http://124.116.183.146:9901/tsfile/live/0006_1.m3u8
 CCTV6,http://106.53.99.30/tv/jzb.php?id=cctv6
 CCTV6,http://39.164.174.139:5000/nl.m3u8?id=CCTV-6HD
 CCTV6,http://8.138.7.223/tv/migu3.php?id=cctv6
@@ -196,6 +195,7 @@ CCTV7,http://123.129.70.178:9901/tsfile/live/0007_1.m3u8
 CCTV7,http://58.57.40.22:9901/tsfile/live/1007_1.m3u8
 CCTV7,http://182.150.23.74:808/hls/7/index.m3u8
 CCTV7,http://gfr.x3322.net:9901/tsfile/live/1072_1.m3u8
+CCTV7,http://124.116.183.146:9901/tsfile/live/0007_1.m3u8
 CCTV7,http://101.66.198.83:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV7,http://106.53.99.30/tv/jzb.php?id=cctv7
 CCTV7,http://39.164.174.139:5000/nl.m3u8?id=CCTV-7HD
@@ -208,6 +208,7 @@ CCTV7,http://58.17.48.228:808/hls/24/index.m3u8
 CCTV7,http://123.182.60.29:9002/hls/9/index.m3u8
 CCTV7,http://116.9.204.242:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7,http://113.64.146.99:9901/hls/24/index.m3u8
+CCTV7,https://t.freetv.fun/live/cctv7-4.m3u8
 CCTV8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 CCTV8,http://39.134.67.108/PLTV/88888888/224/3221225795/1.m3u8
 CCTV8,http://74.91.26.218:82/live/cctv8hd.m3u8
@@ -221,9 +222,7 @@ CCTV8,http://58.57.40.22:9901/tsfile/live/1008_1.m3u8
 CCTV8,http://iptv77.iptv66.eu.org:35455/gaoma/cctv8.m3u8
 CCTV8,http://123.129.70.178:9901/tsfile/live/0008_1.m3u8
 CCTV8,http://124.116.183.146:9901/tsfile/live/0008_1.m3u8
-CCTV8,http://112.27.235.94:8000/hls/9/index.m3u8
-CCTV8,http://123.130.84.106:8154/tsfile/live/0008_1.m3u8
-CCTV8,http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://182.150.23.74:808/hls/8/index.m3u8
 CCTV8,http://106.53.99.30/tv/jzb.php?id=cctv8
 CCTV8,http://39.164.174.139:5000/nl.m3u8?id=CCTV-8
 CCTV8,http://8.138.7.223/tv/migu3.php?id=cctv8
@@ -244,8 +243,8 @@ CCTV9,http://58.57.40.22:9901/tsfile/live/1009_1.m3u8
 CCTV9,http://222.169.85.8:9901/tsfile/live/0009_1.m3u8
 CCTV9,http://112.46.85.60:8009/hls/509/index.m3u8
 CCTV9,http://live.aishang.ctlcdn.com/00000110240478_1/playlist.m3u8?CONTENTID=00000110240478_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-CCTV9,http://123.130.84.106:8154/tsfile/live/0009_1.m3u8
-CCTV9,http://74.91.26.218:82/live/cctv9hd.m3u8
+CCTV9,http://182.150.23.74:808/hls/9/index.m3u8
+CCTV9,http://124.116.183.146:9901/tsfile/live/0009_1.m3u8
 CCTV9,http://106.53.99.30/tv/jzb.php?id=cctv9
 CCTV9,http://39.164.174.139:5000/nl.m3u8?id=CCTV-9HD
 CCTV9,http://8.138.7.223/tv/migu3.php?id=cctv9
@@ -268,8 +267,7 @@ CCTV10,http://120.211.62.180:8000/hls/10/index.m3u8
 CCTV10,http://58.57.40.22:9901/tsfile/live/1010_1.m3u8
 CCTV10,http://124.116.183.146:9901/tsfile/live/0010_1.m3u8
 CCTV10,https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
-CCTV10,http://123.130.84.106:8154/tsfile/live/0010_1.m3u8
-CCTV10,http://61.136.172.236:9901/tsfile/live/0010_1.m3u8
+CCTV10,http://182.150.23.74:808/hls/10/index.m3u8
 CCTV10,http://106.53.99.30/tv/jzb.php?id=cctv10
 CCTV10,http://39.164.174.139:5000/nl.m3u8?id=CCTV-10HD
 CCTV10,http://8.138.7.223/tv/migu3.php?id=cctv10
@@ -296,7 +294,6 @@ CCTV11,http://182.150.23.74:808/hls/11/index.m3u8
 CCTV11,http://120.211.62.180:8000/hls/11/index.m3u8
 CCTV11,http://123.129.70.178:9901/tsfile/live/0011_1.m3u8
 CCTV11,https://live.goodiptv.club/api/bestv.php?id=cctv11hd8m/8000000
-CCTV11,http://123.130.84.106:8154/tsfile/live/0011_1.m3u8
 CCTV11,http://106.53.99.30/tv/jzb.php?id=cctv11
 CCTV11,http://39.164.174.139:5000/nl.m3u8?id=CCTV-11
 CCTV11,http://8.138.7.223/tv/migu3.php?id=cctv11
@@ -310,6 +307,7 @@ CCTV11,http://58.17.48.228:808/hls/11/index.m3u8
 CCTV11,http://123.182.60.29:9002/hls/11/index.m3u8
 CCTV11,http://116.9.204.242:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11,http://113.64.146.99:9901/hls/29/index.m3u8
+CCTV11,https://t.freetv.fun/live/cctv11-7.m3u8
 CCTV12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 CCTV12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8
 CCTV12,http://39.134.67.108/PLTV/88888888/224/3221225669/1.m3u8
@@ -322,7 +320,7 @@ CCTV12,http://112.27.235.94:8000/hls/13/index.m3u8
 CCTV12,http://58.57.40.22:9901/tsfile/live/1012_1.m3u8
 CCTV12,http://123.129.70.178:9901/tsfile/live/0012_1.m3u8
 CCTV12,https://live.goodiptv.club/api/bestv.php?id=cctv12hd8m/8000000
-CCTV12,http://123.130.84.106:8154/tsfile/live/0012_1.m3u8
+CCTV12,http://182.150.23.74:808/hls/12/index.m3u8
 CCTV12,http://106.53.99.30/tv/jzb.php?id=cctv12
 CCTV12,http://8.138.7.223/tv/migu3.php?id=cctv12
 CCTV12,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225731/.m3u8
@@ -348,6 +346,8 @@ CCTV13,http://222.169.85.8:9901/tsfile/live/0013_1.m3u8
 CCTV13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV13,http://183.11.239.36:808/hls/31/index.m3u8
 CCTV13,http://123.129.70.178:9901/tsfile/live/0013_1.m3u8
+CCTV13,http://61.136.172.236:9901/tsfile/live/0013_1.m3u8
+CCTV13,http://101.66.198.83:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV13,http://106.53.99.30/tv/jzb.php?id=cctv13
 CCTV13,http://39.164.174.139:5000/nl.m3u8?id=CCTV-13
 CCTV13,http://8.138.7.223/tv/migu3.php?id=cctv13
@@ -378,8 +378,6 @@ CCTV14,http://124.116.183.146:9901/tsfile/live/0014_1.m3u8
 CCTV14,http://58.57.40.22:9901/tsfile/live/1014_1.m3u8
 CCTV14,http://182.150.23.74:808/hls/14/index.m3u8
 CCTV14,https://live.goodiptv.club/api/bestv.php?id=cctvsehd8m/8000000
-CCTV14,http://222.169.85.8:9901/tsfile/live/0014_1.m3u8
-CCTV14,http://123.130.84.106:8154/tsfile/live/0014_1.m3u8
 CCTV14,http://61.136.172.236:9901/tsfile/live/0014_1.m3u8
 CCTV14,http://106.53.99.30/tv/jzb.php?id=cctv14
 CCTV14,http://39.164.174.139:5000/nl.m3u8?id=CCTV-14
@@ -408,7 +406,7 @@ CCTV15,http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV15,http://120.211.62.180:8000/hls/15/index.m3u8
 CCTV15,https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
 CCTV15,http://222.169.85.8:9901/tsfile/live/0015_1.m3u8
-CCTV15,http://gmxw.7766.org:808/hls/102/index.m3u8
+CCTV15,http://61.136.172.236:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://106.53.99.30/tv/jzb.php?id=cctv15
 CCTV15,http://39.164.174.139:5000/nl.m3u8?id=CCTV-15
 CCTV15,http://8.138.7.223/tv/migu3.php?id=cctv15
@@ -421,6 +419,7 @@ CCTV15,http://58.17.48.228:808/hls/15/index.m3u8
 CCTV15,http://123.182.60.29:9002/hls/15/index.m3u8
 CCTV15,http://116.9.204.242:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://113.64.146.99:9901/hls/33/index.m3u8
+CCTV15,https://t.freetv.fun/live/cctv15-7.m3u8
 CCTV15,https://xykt-fix.github.io/play/a02e/index.m3u8
 CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV16,http://39.134.67.108/PLTV/88888888/224/3221225893/1.m3u8
@@ -452,6 +451,7 @@ CCTV17,http://39.134.64.87:6610/PLTV/88888888/224/3221225765/index.m3u8?IASHttpS
 CCTV17,http://www.cdnstv.com:6398/hls/17/index.m3u8
 CCTV17,http://113.15.109.216:59901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://113.64.146.99:9901/hls/34/index.m3u8
+CCTV17,https://t.freetv.fun/live/cctv17-2.m3u8
 CCTV第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 CCTV第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
 CCTV第一剧场,http://hmfs.f3322.net:3388/hls/21/index.m3u8
@@ -474,10 +474,12 @@ CCTV发现之旅,http://8.138.7.223/tv/migu3.php?id=fxzl
 CCTV电视指南,http://120.76.248.139/live/bfgd/4200000164.m3u8
 CCTV老故事,http://8.138.7.223/tv/migu3.php?id=lgs
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8
+CCTV4K,http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
 CCTV8K,http://198.204.240.250:82/live/cctv8k.m3u8
 CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV1,http://39.134.67.108/PLTV/88888888/224/3221225563/1.m3u8
 CETV1,http://kkk.888.3116598.xyz/api.php?n=tttt&id=fL0XJF&tk=FgM0vQMejxvG
+CETV1,http://120.76.248.139/live/bfgd/4200000135.m3u8
 CETV1,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225652/.m3u8
 CETV1,http://39.134.64.87:6610/PLTV/88888888/224/3221225652/index.m3u8?IASHttpSessionId=
 CETV1,http://183.11.239.36:808/hls/122/index.m3u8
@@ -547,8 +549,7 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://106.39.160.155/live.aishang.ctlcdn.com/00000110240130_1/playlist.m3u8?CONTENTID=00000110240130_1&AUTHINFO=FABqh274XDn8fkurD5614t+1RvYajgx+a3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom+XaXZYzB/QfYjeYzGgKhP/do+Xpr4quVxlkA+ubKvbU1XwJFRgrbX+nTs60JauQUrav8kLj/PH8LxkDFpzvkq75UfeY/VNDZygRZLw4j+Xtwhj/IuXf1hJAU0X+heT7g==&USERTOKEN=eHKuwve/35NVIR5qsO5XsuB0O2BhR0KR
 湖南卫视,http://154.36.187.125/histar5.php?id=116
-湖南卫视,http://112.27.235.94:8000/hls/31/index.m3u8
-湖南卫视,http://218.13.170.98:9901/tsfile/live/1001_1.m3u8
+湖南卫视,http://124.116.183.146:9901/tsfile/live/0128_1.m3u8
 湖南卫视,http://106.53.99.30/tv/20250803.php?id=湖南卫视
 湖南卫视,http://106.53.99.30/tv/jzb.php?id=hunws
 湖南卫视,http://39.164.174.139:5000/nl.m3u8?id=HNWSHD
@@ -565,6 +566,7 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 湖南卫视,http://116.9.204.242:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://183.11.239.36:808/hls/36/index.m3u8
 湖南卫视,http://113.64.146.99:9901/hls/56/index.m3u8
+湖南卫视,https://t.freetv.fun/live/hu-nan-wei-shi-2-1.m3u8
 湖南卫视,https://t.freetv.fun/live/hu-nan-wei-shi-15-1.m3u8
 湖南卫视,https://t.freetv.fun/live/hu-nan-wei-shi-24.m3u8
 湖南卫视,https://t.freetv.fun/live/hu-nan-wei-shi-26.m3u8
@@ -572,8 +574,6 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 湖南卫视,https://t.freetv.fun/live/hu-nan-wei-shi-28.m3u8
 湖南卫视,https://t.freetv.fun/live/hu-nan-wei-shi-30.smil
 湖南卫视,https://t.freetv.fun/live/hu-nan-wei-shi-33.smil
-湖南卫视,https://t.freetv.fun/live/hu-nan-wei-shi-gao-qing-1-1.m3u8
-湖南卫视,https://t.freetv.fun/live/hu-nan-wei-shi-gao-qing-1.smil
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226342/index.m3u8
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
@@ -637,7 +637,6 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 浙江卫视,http://106.39.160.155/live.aishang.ctlcdn.com/00000110240134_1/playlist.m3u8?CONTENTID=00000110240134_1&AUTHINFO=FABqh274XDn8fkurD5614t+1RvYajgx+a3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom+XaXZYzB/QfYjeYzGgKhP/do+Xpr4quVxlkA+ubKvbU1XwJFRgrbX+nTs60JauQUrav8kLj/PH8LxkDFpzvkq75UfeY/VNDZygRZLw4j+Xtwhj/IuXf1hJAU0X+heT7g==&USERTOKEN=eHKuwve/35NVIR5qsO5XsuB0O2BhR0KR
 浙江卫视,http://154.36.187.125/histar5.php?id=117
 浙江卫视,http://154.36.187.125/histar5.php?id=zhejiang
-浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
 浙江卫视,http://106.53.99.30/tv/20250803.php?id=浙江卫视
 浙江卫视,http://106.53.99.30/tv/jzb.php?id=zjws
 浙江卫视,http://39.164.174.139:5000/nl.m3u8?id=ZJWSHD
@@ -650,7 +649,12 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 浙江卫视,http://116.9.204.242:9901/tsfile/live/0122_2.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://183.11.239.36:808/hls/37/index.m3u8
 浙江卫视,http://113.64.146.99:9901/hls/57/index.m3u8
+浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-1-2.m3u8
+浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-2-3.m3u8
+浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-11-1.m3u8
+浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-40.m3u8
 浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-37.m3u8
+浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-39.m3u8
 浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-gao-qing.smil
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226336/index.m3u8
@@ -716,7 +720,6 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 东方卫视,http://154.36.187.125/histar5.php?id=118
 东方卫视,http://154.36.187.125/histar5.php?id=dongfang
 东方卫视,http://218.13.170.98:9901/tsfile/live/1010_1.m3u8
-东方卫视,http://183.11.239.36:808/hls/114/index.m3u8
 东方卫视,http://106.53.99.30/tv/20250803.php?id=东方卫视
 东方卫视,http://106.53.99.30/tv/jzb.php?id=dfws
 东方卫视,http://39.164.174.139:5000/nl.m3u8?id=DFWSHD
@@ -729,10 +732,14 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 东方卫视,http://39.134.64.87:6610/PLTV/88888888/224/3221226345/index.m3u8?IASHttpSessionId=
 东方卫视,http://www.cdnstv.com:6398/hls/49/index.m3u8
 东方卫视,http://58.17.48.228:808/hls/33/index.m3u8
+东方卫视,http://183.11.239.36:808/hls/114/index.m3u8
 东方卫视,http://8.138.7.223/tv/shtv.php?id=dfws
 东方卫视,http://113.64.146.99:9901/hls/58/index.m3u8
+东方卫视,https://t.freetv.fun/live/dong-fang-wei-shi-1-1.m3u8
+东方卫视,https://t.freetv.fun/live/dong-fang-wei-shi-2-1.m3u8
 东方卫视,https://t.freetv.fun/live/dong-fang-wei-shi-24.m3u8
 东方卫视,https://t.freetv.fun/live/dong-fang-wei-shi-27.m3u8
+东方卫视,https://t.freetv.fun/live/dong-fang-wei-shi-30.m3u8
 江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226495/index.m3u8
 江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
@@ -783,7 +790,7 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 江苏卫视,http://106.39.160.155/live.aishang.ctlcdn.com/00000110240133_1/playlist.m3u8?CONTENTID=00000110240133_1&AUTHINFO=FABqh274XDn8fkurD5614t+1RvYajgx+a3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom+XaXZYzB/QfYjeYzGgKhP/do+Xpr4quVxlkA+ubKvbU1XwJFRgrbX+nTs60JauQUrav8kLj/PH8LxkDFpzvkq75UfeY/VNDZygRZLw4j+Xtwhj/IuXf1hJAU0X+heT7g==&USERTOKEN=eHKuwve/35NVIR5qsO5XsuB0O2BhR0KR
 江苏卫视,http://154.36.187.125/histar5.php?id=119
 江苏卫视,http://154.36.187.125/histar5.php?id=jiangsu
-江苏卫视,http://112.27.235.94:8000/hls/32/index.m3u8
+江苏卫视,http://61.136.172.236:9901/tsfile/live/0127_1.m3u8
 江苏卫视,http://106.53.99.30/tv/20250803.php?id=江苏卫视
 江苏卫视,http://106.53.99.30/tv/jzb.php?id=jsws
 江苏卫视,http://39.164.174.139:5000/nl.m3u8?id=JSWSHD
@@ -801,10 +808,13 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 江苏卫视,http://8.138.7.223/tv/dl/jstv.php?id=jsws
 江苏卫视,http://113.64.146.99:9901/hls/59/index.m3u8
 江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi-gao-qing.m3u8
+江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi-1-1.m3u8
 江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi-21.m3u8
 江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi-22.m3u8
 江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi-24.m3u8
 江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi-25.m3u8
+江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi-26.m3u8
+江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi-27.m3u8
 安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226498/index.m3u8
 安徽卫视,http://39.134.67.108/PLTV/88888888/224/3221225925/1.m3u8
@@ -849,7 +859,8 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 安徽卫视,http://154.36.187.125/histar5.php?id=anhui
 安徽卫视,https://live.goodiptv.club/api/bestv.php?id=ahwshd8m/8000000
 安徽卫视,http://123.129.70.178:9901/tsfile/live/0130_1.m3u8
-安徽卫视,http://123.130.84.106:8154/tsfile/live/0130_1.m3u8
+安徽卫视,http://182.150.23.74:808/hls/25/index.m3u8
+安徽卫视,http://59.39.89.130:60901/tsfile/live/0125_6.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://106.53.99.30/tv/20250803.php?id=安徽卫视
 安徽卫视,http://106.53.99.30/tv/jzb.php?id=ahws
 安徽卫视,http://39.164.174.139:5000/nl.m3u8?id=AHWSHD
@@ -860,6 +871,7 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 安徽卫视,http://www.cdnstv.com:6398/hls/1127/index.m3u8
 安徽卫视,http://58.17.48.228:808/hls/36/index.m3u8
 安徽卫视,http://113.64.146.99:9901/hls/66/index.m3u8
+安徽卫视,https://t.freetv.fun/live/an-hui-wei-shi-3-3.m3u8
 安徽卫视,https://t.freetv.fun/live/an-hui-wei-shi-gao-qing.m3u8
 安徽卫视,https://t.freetv.fun/live/an-hui-wei-shi-17.m3u8
 安徽卫视,https://t.freetv.fun/live/an-hui-wei-shi-19.m3u8
@@ -925,9 +937,11 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 东南卫视,http://183.11.239.36:808/hls/55/index.m3u8
 东南卫视,http://8.138.7.223/tv/fjtv.php?id=5
 东南卫视,http://8.138.7.223/tv/fjtv1.php?id=dnws
+东南卫视,https://t.freetv.fun/live/dong-nan-wei-shi-9.m3u8
 东南卫视,https://t.freetv.fun/live/dong-nan-wei-shi-14.m3u8
+东南卫视,https://t.freetv.fun/live/dong-nan-wei-shi-9.php
 东南卫视,https://t.freetv.fun/live/dong-nan-wei-shi-gao-qing.m3u8
-东南卫视,https://t.freetv.fun/live/dong-nan-wei-shi-12-1.m3u8
+东南卫视,https://t.freetv.fun/live/dong-nan-wei-shi-1-1.m3u8
 东南卫视,https://t.freetv.fun/live/dong-nan-wei-shi-16.m3u8
 东南卫视,https://t.freetv.fun/live/dong-nan-wei-shi-17.m3u8
 东南卫视,https://t.freetv.fun/live/dong-nan-wei-shi-19.m3u8
@@ -998,10 +1012,14 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 北京卫视,http://116.9.204.242:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://8.138.7.223/tv/bj.php?id=0001
 北京卫视,http://113.64.146.99:9901/hls/60/index.m3u8
+北京卫视,https://t.freetv.fun/live/bei-jing-wei-shi-3-3.m3u8
+北京卫视,https://t.freetv.fun/live/bei-jing-wei-shi-7.php
+北京卫视,https://t.freetv.fun/live/bei-jing-wei-shi-15.m3u8
 北京卫视,https://t.freetv.fun/live/bei-jing-wei-shi-27.m3u8
 北京卫视,https://t.freetv.fun/live/bei-jing-wei-shi-32.m3u8
 北京卫视,https://t.freetv.fun/live/bei-jing-wei-shi-33.m3u8
 北京卫视,https://t.freetv.fun/live/bei-jing-wei-shi-34.smil
+北京卫视,https://t.freetv.fun/live/bei-jing-wei-shi-35.m3u8
 海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225639/index.m3u8
 海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226445/index.m3u8
@@ -1045,7 +1063,7 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 海南卫视,https://t.freetv.fun/live/hai-nan-wei-shi-9-1.m3u8
 海南卫视,https://t.freetv.fun/live/hai-nan-wei-shi-14.m3u8
 海南卫视,https://t.freetv.fun/live/hai-nan-wei-shi-15.m3u8
-海南卫视,https://t.freetv.fun/live/hai-nan-wei-shi-gao-qing.m3u8
+海南卫视,https://t.freetv.fun/live/hai-nan-wei-shi-16.m3u8
 深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
 深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226510/index.m3u8
 深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
@@ -1120,11 +1138,13 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 深圳卫视,http://183.11.239.36:808/hls/45/index.m3u8
 深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-8-1.php
 深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-gao-qing.m3u8
+深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-1-1.m3u8
 深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-22.m3u8
 深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-23.m3u8
 深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-33.smil
 南方卫视,https://t.freetv.fun/live/nan-fang-wei-shi-3.m3u8
 南方卫视,https://t.freetv.fun/live/nan-fang-wei-shi-1-2.m3u8
+南方卫视,https://t.freetv.fun/live/nan-fang-wei-shi-1-1.m3u8
 厦门卫视,https://t.freetv.fun/live/sha-men-wei-shi-12.m3u8
 厦门卫视,https://t.freetv.fun/live/sha-men-wei-shi-2-2.m3u8
 厦门卫视,https://t.freetv.fun/live/sha-men-wei-shi-1-2.m3u8
@@ -1143,6 +1163,9 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 厦门卫视,https://live1b.kxm.xmtv.cn/xmtvbf/playlist.m3u8
 厦门卫视,https://live1b.kxm.xmtv.cn/xmtvbf/tvzb/live.m3u8
 厦门卫视,http://8.138.7.223/tv/xmtv.php?id=xmws
+厦门卫视,https://t.freetv.fun/live/sha-men-wei-shi-1-1.m3u8
+厦门卫视,https://t.freetv.fun/live/sha-men-wei-shi-2-1.m3u8
+厦门卫视,https://t.freetv.fun/live/sha-men-wei-shi-1-1.php
 厦门卫视,https://t.freetv.fun/live/sha-men-wei-shi-9.m3u8
 吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226386/index.m3u8
@@ -1193,9 +1216,10 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 吉林卫视,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/1.m3u8
 吉林卫视,http://tvbox6.icu/tv/jlntv.php?id=jlws
 吉林卫视,http://113.64.146.99:9901/hls/89/index.m3u8
-吉林卫视,https://t.freetv.fun/live/ji-lin-wei-shi-3-3.m3u8
+吉林卫视,https://t.freetv.fun/live/ji-lin-wei-shi-3-2.m3u8
 吉林卫视,https://t.freetv.fun/live/ji-lin-wei-shi-7-1.m3u8
 吉林卫视,https://t.freetv.fun/live/ji-lin-wei-shi-13.m3u8
+吉林卫视,https://t.freetv.fun/live/ji-lin-wei-shi-19.m3u8
 吉林卫视,https://t.freetv.fun/live/ji-lin-wei-shi-gao-qing-1.m3u8
 四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226513/index.m3u8
@@ -1242,7 +1266,7 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 四川卫视,http://yncbn.ks-cdn.gitv.tv/gitv_live/G_SICHUAN-HQ/G_SICHUAN-HQ.m3u8
 四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
 四川卫视,http://222.169.85.8:9901/tsfile/live/0123_1.m3u8
-四川卫视,http://182.150.23.74:808/hls/38/index.m3u8
+四川卫视,http://59.39.89.130:60901/tsfile/live/0125_16.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://106.53.99.30/tv/20250803.php?id=四川卫视
 四川卫视,http://106.53.99.30/tv/jzb.php?id=scws
 四川卫视,http://39.164.174.139:5000/nl.m3u8?id=SCWSHD
@@ -1254,10 +1278,13 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 四川卫视,http://113.15.109.216:59901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://113.64.146.99:9901/hls/65/index.m3u8
 四川卫视,http://118.122.2.29:9999/hls/18/index.m3u8
+四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-1-2.m3u8
+四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-1-2.php
+四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-6.m3u8
 四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-17.m3u8
 四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-26.m3u8
 四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-28.smil
-四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-gao-qing.m3u8
+四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-29.m3u8
 天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226395/index.m3u8
 天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
@@ -1297,6 +1324,7 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 天津卫视,http://106.39.160.155/live.aishang.ctlcdn.com/00000110240136_1/playlist.m3u8?CONTENTID=00000110240136_1&AUTHINFO=FABqh274XDn8fkurD5614t+1RvYajgx+a3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom+XaXZYzB/QfYjeYzGgKhP/do+Xpr4quVxlkA+ubKvbU1XwJFRgrbX+nTs60JauQUrav8kLj/PH8LxkDFpzvkq75UfeY/VNDZygRZLw4j+Xtwhj/IuXf1hJAU0X+heT7g==&USERTOKEN=eHKuwve/35NVIR5qsO5XsuB0O2BhR0KR
 天津卫视,http://154.36.187.125/histar5.php?id=142
 天津卫视,http://154.36.187.125/histar5.php?id=tianjin
+天津卫视,http://183.11.239.36:808/hls/42/index.m3u8
 天津卫视,http://124.116.183.146:9901/tsfile/live/0135_1.m3u8
 天津卫视,http://106.53.99.30/tv/20250803.php?id=天津卫视
 天津卫视,http://106.53.99.30/tv/jzb.php?id=tjws
@@ -1309,14 +1337,14 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 天津卫视,http://www.cdnstv.com:6398/hls/1137/index.m3u8
 天津卫视,http://113.15.109.216:59901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://58.17.48.228:808/hls/42/index.m3u8
-天津卫视,http://183.11.239.36:808/hls/42/index.m3u8
 天津卫视,http://113.64.146.99:9901/hls/69/index.m3u8
+天津卫视,https://t.freetv.fun/live/tian-jin-wei-shi-1-1.m3u8
 天津卫视,https://t.freetv.fun/live/tian-jin-wei-shi-14.m3u8
 天津卫视,https://t.freetv.fun/live/tian-jin-wei-shi-19.m3u8
 天津卫视,https://t.freetv.fun/live/tian-jin-wei-shi-20.m3u8
 天津卫视,https://t.freetv.fun/live/tian-jin-wei-shi-21.m3u8
 天津卫视,https://t.freetv.fun/live/tian-jin-wei-shi-22.m3u8
-天津卫视,https://t.freetv.fun/live/tian-jin-wei-shi-gao-qing-1.m3u8
+天津卫视,https://t.freetv.fun/live/tian-jin-wei-shi-23.m3u8
 宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
 宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
 宁夏卫视,https://t.freetv.fun/live/zhu-xia-wei-shi-21.m3u8
@@ -1358,8 +1386,10 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 宁夏卫视,http://58.17.48.228:808/hls/65/index.m3u8
 宁夏卫视,http://120.76.248.139/live/bfgd/4200000118.m3u8
 宁夏卫视,http://113.64.146.99:9901/hls/84/index.m3u8
+宁夏卫视,https://t.freetv.fun/live/zhu-xia-wei-shi-1-1.m3u8
 宁夏卫视,https://t.freetv.fun/live/zhu-xia-wei-shi-15.m3u8
 宁夏卫视,https://t.freetv.fun/live/zhu-xia-wei-shi-17.m3u8
+宁夏卫视,https://t.freetv.fun/live/zhu-xia-wei-shi-23.m3u8
 山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
 山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226507/index.m3u8
 山东卫视,http://39.134.67.108/PLTV/88888888/224/3221225952/1.m3u8
@@ -1413,6 +1443,7 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 山东卫视,http://182.150.23.74:808/hls/23/index.m3u8
 山东卫视,http://106.39.160.155/live.aishang.ctlcdn.com/00000110240254_1/playlist.m3u8?CONTENTID=00000110240254_1&AUTHINFO=FABqh274XDn8fkurD5614t+1RvYajgx+a3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom+XaXZYzB/QfYjeYzGgKhP/do+Xpr4quVxlkA+ubKvbU1XwJFRgrbX+nTs60JauQUrav8kLj/PH8LxkDFpzvkq75UfeY/VNDZygRZLw4j+Xtwhj/IuXf1hJAU0X+heT7g==&USERTOKEN=eHKuwve/35NVIR5qsO5XsuB0O2BhR0KR
 山东卫视,http://154.36.187.125/histar5.php?id=shandong
+山东卫视,http://123.130.84.106:8154/tsfile/live/0131_1.m3u8
 山东卫视,http://106.53.99.30/tv/20250803.php?id=山东卫视
 山东卫视,http://106.53.99.30/tv/jzb.php?id=sdws
 山东卫视,http://39.164.174.139:5000/nl.m3u8?id=SDWSHD
@@ -1429,6 +1460,8 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 山东卫视,http://111.14.181.15:9901/tsfile/live/0131_1.m3u8?key=tvbox6_com&playlive=1&authid=0
 山东卫视,http://124.128.73.58:9901/tsfile/live/0107_1.m3u8
 山东卫视,http://113.64.146.99:9901/hls/62/index.m3u8
+山东卫视,https://t.freetv.fun/live/shan-dong-wei-shi-2-1.m3u8
+山东卫视,https://t.freetv.fun/live/shan-dong-wei-shi-1-1.m3u8
 山东卫视,https://t.freetv.fun/live/shan-dong-wei-shi-12.m3u8
 山东卫视,https://t.freetv.fun/live/shan-dong-wei-shi-gao-qing.m3u8
 山西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
@@ -1480,11 +1513,11 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 山西卫视,http://183.11.239.36:808/hls/59/index.m3u8
 山西卫视,http://120.76.248.139/live/bfgd/4200000109.m3u8
 山西卫视,http://113.64.146.99:9901/hls/74/index.m3u8
+山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-1-1.m3u8
 山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-8-1.m3u8
+山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-5-1.m3u8
 山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-26.m3u8
 山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-16-2.m3u8
-山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-18-2.m3u8
-山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-19-2.m3u8
 山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-24.m3u8
 山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-25.m3u8
 广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
@@ -1596,11 +1629,14 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 广东卫视,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=r79WJV&tk=bknhp6JvJlqE
 广东卫视,http://113.64.146.99:9901/hls/55/index.m3u8
 广东卫视,http://8.138.7.223/tv/gd.php?id=0001
+广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-2-3.php
+广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-2-3.m3u8
 广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-29.m3u8
 广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-32.m3u8
 广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-33.m3u8
 广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-34.smil
 广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-35.smil
+广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-37.m3u8
 广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-gao-qing-31.m3u8
 广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-gao-qing-32.m3u8
 广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-gao-qing-33.smil
@@ -1644,7 +1680,7 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 广西卫视,https://t.freetv.fun/live/yan-xi-wei-shi-2-3.php
 广西卫视,http://106.39.160.155/live.aishang.ctlcdn.com/00000110240037_1/playlist.m3u8?CONTENTID=00000110240037_1&AUTHINFO=FABqh274XDn8fkurD5614t+1RvYajgx+a3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom+XaXZYzB/QfYjeYzGgKhP/do+Xpr4quVxlkA+ubKvbU1XwJFRgrbX+nTs60JauQUrav8kLj/PH8LxkDFpzvkq75UfeY/VNDZygRZLw4j+Xtwhj/IuXf1hJAU0X+heT7g==&USERTOKEN=eHKuwve/35NVIR5qsO5XsuB0O2BhR0KR
 广西卫视,http://154.36.187.125/histar5.php?id=guangxi
-广西卫视,http://222.169.85.8:9901/tsfile/live/0113_1.m3u8
+广西卫视,http://120.76.248.139/live/bfgd/4200000116.m3u8
 广西卫视,http://106.53.99.30/tv/20250803.php?id=广西卫视
 广西卫视,http://106.53.99.30/tv/jzb.php?id=gxws
 广西卫视,http://39.164.174.139:5000/nl.m3u8?id=GXWS
@@ -1657,6 +1693,9 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 广西卫视,http://116.9.204.242:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 广西卫视,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=fXXc21&tk=bknhp6JvJlqE
 广西卫视,http://113.64.146.99:9901/hls/80/index.m3u8
+广西卫视,https://t.freetv.fun/live/yan-xi-wei-shi-1-2.m3u8
+广西卫视,https://t.freetv.fun/live/yan-xi-wei-shi-1-2.php
+广西卫视,https://t.freetv.fun/live/yan-xi-wei-shi-3-2.m3u8
 广西卫视,https://t.freetv.fun/live/yan-xi-wei-shi-24.m3u8
 广西卫视,https://t.freetv.fun/live/yan-xi-wei-shi-28.m3u8
 广西卫视,https://t.freetv.fun/live/yan-xi-wei-shi-27.m3u8
@@ -1682,6 +1721,7 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 延边卫视,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226516/.m3u8
 延边卫视,http://39.134.64.87:6610/PLTV/88888888/224/3221226516/index.m3u8?IASHttpSessionId=
 延边卫视,http://live.ybtvyun.com/video/s10006-d48b8590849c/index.m3u8
+延边卫视,https://t.freetv.fun/live/yan-bian-wei-shi-1-2.m3u8
 新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
 新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8
 新疆卫视,https://t.freetv.fun/live/xin-jiang-wei-shi-9.m3u8
@@ -1720,6 +1760,9 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 新疆卫视,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226460/.m3u8
 新疆卫视,http://39.134.64.87:6610/PLTV/88888888/224/3221226460/index.m3u8?IASHttpSessionId=
 新疆卫视,http://58.17.48.228:808/hls/61/index.m3u8
+新疆卫视,https://t.freetv.fun/live/xin-jiang-wei-shi-3-2.php
+新疆卫视,https://t.freetv.fun/live/xin-jiang-wei-shi-3-2.m3u8
+新疆卫视,https://t.freetv.fun/live/xin-jiang-wei-shi-4-1.m3u8
 新疆卫视,https://t.freetv.fun/live/xin-jiang-wei-shi-12.m3u8
 新疆卫视,https://t.freetv.fun/live/xin-jiang-wei-shi-17.m3u8
 新疆卫视,https://t.freetv.fun/live/xin-jiang-wei-shi-18.m3u8
@@ -1764,7 +1807,7 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 云南卫视,http://106.39.160.155/live.aishang.ctlcdn.com/00000110240082_1/playlist.m3u8?CONTENTID=00000110240082_1&AUTHINFO=FABqh274XDn8fkurD5614t+1RvYajgx+a3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom+XaXZYzB/QfYjeYzGgKhP/do+Xpr4quVxlkA+ubKvbU1XwJFRgrbX+nTs60JauQUrav8kLj/PH8LxkDFpzvkq75UfeY/VNDZygRZLw4j+Xtwhj/IuXf1hJAU0X+heT7g==&USERTOKEN=eHKuwve/35NVIR5qsO5XsuB0O2BhR0KR
 云南卫视,http://154.36.187.125/histar5.php?id=146
 云南卫视,http://154.36.187.125/histar5.php?id=yunnan
-云南卫视,http://59.39.89.130:60901/tsfile/live/0125_18.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://123.130.84.106:8154/tsfile/live/0119_1.m3u8
 云南卫视,http://106.53.99.30/tv/20250803.php?id=云南卫视
 云南卫视,http://39.164.174.139:5000/nl.m3u8?id=YNWS
 云南卫视,http://8.138.7.223/tv/migu3.php?id=ynws
@@ -1776,12 +1819,14 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 云南卫视,http://58.17.48.228:808/hls/46/index.m3u8
 云南卫视,http://113.64.146.99:9901/hls/83/index.m3u8
 云南卫视,http://113.64.146.99:9901/hls/86/index.m3u8
+云南卫视,https://t.freetv.fun/live/yun-nan-wei-shi-4-1.php
+云南卫视,https://t.freetv.fun/live/yun-nan-wei-shi-4-1.m3u8
 云南卫视,https://t.freetv.fun/live/yun-nan-wei-shi-29.m3u8
+云南卫视,https://t.freetv.fun/live/yun-nan-wei-shi-30.m3u8
 云南卫视,https://t.freetv.fun/live/yun-nan-wei-shi-24.m3u8
 云南卫视,https://t.freetv.fun/live/yun-nan-wei-shi-26.m3u8
 云南卫视,https://t.freetv.fun/live/yun-nan-wei-shi-27.m3u8
 云南卫视,https://t.freetv.fun/live/yun-nan-wei-shi-28.m3u8
-云南卫视,https://t.freetv.fun/live/yun-nan-wei-shi-gao-qing.m3u8
 江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226504/index.m3u8
 江西卫视,http://39.134.67.108/PLTV/88888888/224/3221225935/1.m3u8
@@ -1842,10 +1887,14 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 江西卫视,http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
 江西卫视,http://117.72.68.25:9930/jxtv.php?id=1
 江西卫视,http://113.64.146.99:9901/hls/61/index.m3u8
+江西卫视,https://t.freetv.fun/live/jiang-xi-wei-shi-6-2.php
+江西卫视,https://t.freetv.fun/live/jiang-xi-wei-shi-1-1.m3u8
+江西卫视,https://t.freetv.fun/live/jiang-xi-wei-shi-6-2.m3u8
 江西卫视,https://t.freetv.fun/live/jiang-xi-wei-shi-27.m3u8
 江西卫视,https://t.freetv.fun/live/jiang-xi-wei-shi-29.m3u8
 江西卫视,https://t.freetv.fun/live/jiang-xi-wei-shi-30.m3u8
 江西卫视,https://t.freetv.fun/live/jiang-xi-wei-shi-31.smil
+江西卫视,https://t.freetv.fun/live/jiang-xi-wei-shi-32.m3u8
 河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226448/index.m3u8
 河北卫视,http://39.134.67.108/PLTV/88888888/224/3221225961/1.m3u8
@@ -1893,7 +1942,7 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 河北卫视,http://183.11.239.36:808/hls/54/index.m3u8
 河北卫视,http://106.39.160.155/live.aishang.ctlcdn.com/00000110240317_1/playlist.m3u8?CONTENTID=00000110240317_1&AUTHINFO=FABqh274XDn8fkurD5614t+1RvYajgx+a3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom+XaXZYzB/QfYjeYzGgKhP/do+Xpr4quVxlkA+ubKvbU1XwJFRgrbX+nTs60JauQUrav8kLj/PH8LxkDFpzvkq75UfeY/VNDZygRZLw4j+Xtwhj/IuXf1hJAU0X+heT7g==&USERTOKEN=eHKuwve/35NVIR5qsO5XsuB0O2BhR0KR
 河北卫视,http://154.36.187.125/histar5.php?id=hebei
-河北卫视,http://61.136.172.236:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://123.130.84.106:8154/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://106.53.99.30/tv/20250803.php?id=河北卫视
 河北卫视,http://106.53.99.30/tv/api.php?id=hebws
 河北卫视,http://106.53.99.30/tv/jzb.php?id=hebiws
@@ -1907,8 +1956,11 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 河北卫视,http://8.138.7.223/tv/heb.php?id=0001
 河北卫视,http://8.138.7.223/tv/heb.php?id=00011
 河北卫视,http://113.64.146.99:9901/hls/73/index.m3u8
+河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-1-1.m3u8
 河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-16.m3u8
 河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-27.m3u8
+河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-30.m3u8
+河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-32.m3u8
 河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226320/index.m3u8
 河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-20.m3u8
@@ -1976,6 +2028,7 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 河南卫视,http://58.17.48.228:808/hls/55/index.m3u8
 河南卫视,http://nctv.top/IDOEPpiryt/hntv.php?id=hnws
 河南卫视,http://113.64.146.99:9901/hls/77/index.m3u8
+河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-1-1.m3u8
 河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-42.m3u8
 河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-39.m3u8
 河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-40.m3u8
@@ -1987,6 +2040,12 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-47.m3u8
 河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-48.m3u8
 河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-49.m3u8
+河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-50.m3u8
+河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-51.m3u8
+河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-52.m3u8
+河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-53.m3u8
+河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-54.m3u8
+河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-55.m3u8
 湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
 湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226501/index.m3u8
 湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
@@ -2046,12 +2105,16 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 湖北卫视,http://www.cdnstv.com:6398/hls/1136/index.m3u8
 湖北卫视,http://58.17.48.228:808/hls/53/index.m3u8
 湖北卫视,http://113.64.146.99:9901/hls/68/index.m3u8
-湖北卫视,https://t.freetv.fun/live/hu-bei-wei-shi-19.m3u8
 湖北卫视,https://t.freetv.fun/live/hu-bei-wei-shi-17.m3u8
-湖北卫视,https://t.freetv.fun/live/hu-bei-wei-shi-19.php
+湖北卫视,https://t.freetv.fun/live/hu-bei-wei-shi-14.m3u8
+湖北卫视,https://t.freetv.fun/live/hu-bei-wei-shi-1-2.m3u8
+湖北卫视,https://t.freetv.fun/live/hu-bei-wei-shi-3-2.m3u8
+湖北卫视,https://t.freetv.fun/live/hu-bei-wei-shi-8.m3u8
+湖北卫视,https://t.freetv.fun/live/hu-bei-wei-shi-14.php
 湖北卫视,https://t.freetv.fun/live/hu-bei-wei-shi-14-1.m3u8
-湖北卫视,https://t.freetv.fun/live/hu-bei-wei-shi-19-1.m3u8
+湖北卫视,https://t.freetv.fun/live/hu-bei-wei-shi-19.m3u8
 湖北卫视,https://t.freetv.fun/live/hu-bei-wei-shi-20.m3u8
+湖北卫视,https://t.freetv.fun/live/hu-bei-wei-shi-21.m3u8
 甘肃卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
 甘肃卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226522/index.m3u8
 甘肃卫视,https://t.freetv.fun/live/gan-su-wei-shi-1-2.m3u8
@@ -2096,6 +2159,8 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 甘肃卫视,http://39.134.64.87:6610/PLTV/88888888/224/3221226522/index.m3u8?IASHttpSessionId=
 甘肃卫视,http://www.cdnstv.com:6398/hls/1147/index.m3u8
 甘肃卫视,http://58.17.48.228:808/hls/64/index.m3u8
+甘肃卫视,https://t.freetv.fun/live/gan-su-wei-shi-2-2.php
+甘肃卫视,https://t.freetv.fun/live/gan-su-wei-shi-2-2.m3u8
 甘肃卫视,https://t.freetv.fun/live/gan-su-wei-shi-17.m3u8
 甘肃卫视,https://t.freetv.fun/live/gan-su-wei-shi-22.m3u8
 甘肃卫视,https://t.freetv.fun/live/gan-su-wei-shi-23.smil
@@ -2134,8 +2199,11 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 西藏卫视,http://39.134.64.87:6610/PLTV/88888888/224/3221226433/index.m3u8?IASHttpSessionId=
 西藏卫视,http://58.17.48.228:808/hls/63/index.m3u8
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
+西藏卫视,https://t.freetv.fun/live/xi-cang-wei-shi-9.m3u8
+西藏卫视,https://t.freetv.fun/live/xi-cang-wei-shi-5.m3u8
+西藏卫视,https://t.freetv.fun/live/xi-cang-wei-shi-9.php
+西藏卫视,https://t.freetv.fun/live/xi-cang-wei-shi-9.smil
 西藏卫视,https://t.freetv.fun/live/xi-cang-wei-shi-8-1.m3u8
-西藏卫视,https://t.freetv.fun/live/xi-cang-wei-shi-13-1.m3u8
 西藏卫视,https://t.freetv.fun/live/xi-cang-wei-shi-14.m3u8
 贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
 贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225626/index.m3u8
@@ -2176,6 +2244,8 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 贵州卫视,http://58.57.40.22:9901/tsfile/live/1042_1.m3u8
 贵州卫视,http://61.136.172.236:9901/tsfile/live/0120_1.m3u8
 贵州卫视,http://112.27.235.94:8000/hls/46/index.m3u8
+贵州卫视,http://120.76.248.139/live/bfgd/4200000101.m3u8
+贵州卫视,http://182.150.23.74:808/hls/26/index.m3u8
 贵州卫视,http://222.169.85.8:9901/tsfile/live/0120_1.m3u8
 贵州卫视,http://106.53.99.30/tv/20250803.php?id=贵州卫视
 贵州卫视,http://106.53.99.30/tv/jzb.php?id=gzws
@@ -2188,7 +2258,9 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 贵州卫视,http://113.15.109.216:59901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://58.17.48.228:808/hls/58/index.m3u8
 贵州卫视,http://113.64.146.99:9901/hls/72/index.m3u8
-贵州卫视,https://t.freetv.fun/live/gui-zhou-wei-shi-11.php
+贵州卫视,https://t.freetv.fun/live/gui-zhou-wei-shi-10.m3u8
+贵州卫视,https://t.freetv.fun/live/gui-zhou-wei-shi-10.php
+贵州卫视,https://t.freetv.fun/live/gui-zhou-wei-shi-7-1.m3u8
 贵州卫视,https://t.freetv.fun/live/gui-zhou-wei-shi-14.m3u8
 贵州卫视,https://t.freetv.fun/live/gui-zhou-wei-shi-20.m3u8
 贵州卫视,https://t.freetv.fun/live/gui-zhou-wei-shi-21.m3u8
@@ -2233,8 +2305,8 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 辽宁卫视,http://yncbn.ks-cdn.gitv.tv/gitv_live/G_LIAONING-HQ/G_LIAONING-HQ.m3u8
 辽宁卫视,http://106.39.160.155/live.aishang.ctlcdn.com/00000110240255_1/playlist.m3u8?CONTENTID=00000110240255_1&AUTHINFO=FABqh274XDn8fkurD5614t+1RvYajgx+a3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom+XaXZYzB/QfYjeYzGgKhP/do+Xpr4quVxlkA+ubKvbU1XwJFRgrbX+nTs60JauQUrav8kLj/PH8LxkDFpzvkq75UfeY/VNDZygRZLw4j+Xtwhj/IuXf1hJAU0X+heT7g==&USERTOKEN=eHKuwve/35NVIR5qsO5XsuB0O2BhR0KR
 辽宁卫视,http://154.36.187.125/histar5.php?id=133
+辽宁卫视,http://183.11.239.36:808/hls/47/index.m3u8
 辽宁卫视,http://123.130.84.106:8154/tsfile/live/0121_1.m3u8
-辽宁卫视,http://61.136.172.236:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://106.53.99.30/tv/20250803.php?id=辽宁卫视
 辽宁卫视,http://106.53.99.30/tv/jzb.php?id=lnws
 辽宁卫视,http://39.164.174.139:5000/nl.m3u8?id=LNWSHD
@@ -2247,16 +2319,17 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 辽宁卫视,http://www.cdnstv.com:6398/hls/1128/index.m3u8
 辽宁卫视,http://113.15.109.216:59901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://58.17.48.228:808/hls/151/index.m3u8
-辽宁卫视,http://183.11.239.36:808/hls/47/index.m3u8
 辽宁卫视,http://120.76.248.139/live/bfgd/4200000141.m3u8
 辽宁卫视,http://120.76.248.139/live/bfgd/4200000185.m3u8
 辽宁卫视,http://tvbox6.com/tv/bfgd.php?id=058
 辽宁卫视,http://dassby.qqff.top:99/live/辽宁卫视高清/index.m3u8
 辽宁卫视,http://113.64.146.99:9901/hls/67/index.m3u8
+辽宁卫视,https://t.freetv.fun/live/liao-zhu-wei-shi-1-1.m3u8
+辽宁卫视,https://t.freetv.fun/live/liao-zhu-wei-shi-3-3.m3u8
 辽宁卫视,https://t.freetv.fun/live/liao-zhu-wei-shi-21.m3u8
 辽宁卫视,https://t.freetv.fun/live/liao-zhu-wei-shi-22.m3u8
-辽宁卫视,https://t.freetv.fun/live/liao-zhu-wei-shi-gao-qing-1.smil
 辽宁卫视,https://t.freetv.fun/live/liao-zhu-wei-shi-25.m3u8
+辽宁卫视,https://t.freetv.fun/live/liao-zhu-wei-shi-26.m3u8
 辽宁卫视,https://t.freetv.fun/live/liao-zhu-wei-shi-gao-qing.m3u8
 重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8
@@ -2304,7 +2377,6 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 重庆卫视,http://106.39.160.155/live.aishang.ctlcdn.com/00000110240012_1/playlist.m3u8?CONTENTID=00000110240012_1&AUTHINFO=FABqh274XDn8fkurD5614t+1RvYajgx+a3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom+XaXZYzB/QfYjeYzGgKhP/do+Xpr4quVxlkA+ubKvbU1XwJFRgrbX+nTs60JauQUrav8kLj/PH8LxkDFpzvkq75UfeY/VNDZygRZLw4j+Xtwhj/IuXf1hJAU0X+heT7g==&USERTOKEN=eHKuwve/35NVIR5qsO5XsuB0O2BhR0KR
 重庆卫视,http://154.36.187.125/histar5.php?id=chongqing
 重庆卫视,http://222.169.85.8:9901/tsfile/live/0142_1.m3u8
-重庆卫视,http://123.130.84.106:8154/tsfile/live/0142_1.m3u8
 重庆卫视,http://106.53.99.30/tv/20250803.php?id=重庆卫视
 重庆卫视,http://106.53.99.30/tv/jzb.php?id=cqws
 重庆卫视,http://39.164.174.139:5000/nl.m3u8?id=CQWS
@@ -2318,6 +2390,7 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 重庆卫视,http://113.15.109.216:59901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://58.17.48.228:808/hls/66/index.m3u8
 重庆卫视,http://113.64.146.99:9901/hls/71/index.m3u8
+重庆卫视,https://t.freetv.fun/live/zhong-qing-wei-shi-2-2.m3u8
 重庆卫视,https://t.freetv.fun/live/zhong-qing-wei-shi-22.m3u8
 重庆卫视,https://t.freetv.fun/live/zhong-qing-wei-shi-gao-qing.m3u8
 陕西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
@@ -2360,6 +2433,11 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 陕西卫视,http://113.64.146.99:9901/hls/78/index.m3u8
 陕西卫视,http://112.46.85.60:8009/hls/17/index.m3u8
 陕西卫视,http://124.116.183.146:9901/tsfile/live/0136_1.m3u8
+陕西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-21.m3u8
+陕西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-1-3.m3u8
+陕西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-5-2.php
+陕西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-21.php
+陕西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-20-1.m3u8
 陕西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-13-1.m3u8
 陕西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-16-1.m3u8
 陕西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-19-1.smil
@@ -2391,11 +2469,14 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,https://zhibo.hkstv.tv/livestream/mutfysrq.flv
+香港卫视,https://t.freetv.fun/live/xiang-gang-wei-shi-1-1.m3u8
 康巴卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 康巴卫视,https://t.freetv.fun/live/kang-ba-wei-shi-3.m3u8
 康巴卫视,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225660/.m3u8
 康巴卫视,http://39.134.64.87:6610/PLTV/88888888/224/3221225660/index.m3u8?IASHttpSessionId=
 康巴卫视,http://118.122.2.29:9999/hls/39/index.m3u8
+康巴卫视,https://t.freetv.fun/live/kang-ba-wei-shi-2.m3u8
+康巴卫视,https://t.freetv.fun/live/kang-ba-wei-shi-2.php
 安多卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 安多卫视,https://t.freetv.fun/live/an-duo-wei-shi-2.m3u8
 安多卫视,https://t.freetv.fun/live/an-duo-wei-shi-6.m3u8
@@ -2428,10 +2509,12 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 三沙卫视,http://113.64.146.99:9901/hls/88/index.m3u8
 三沙卫视,http://8.138.7.223/tv/hainan.php?id=ssws
 三沙卫视,http://8.138.7.223/tv/ssws.m3u8
-三沙卫视,https://t.freetv.fun/live/san-sha-wei-shi-21.smil
-三沙卫视,https://t.freetv.fun/live/san-sha-wei-shi-21.m3u8
-三沙卫视,https://t.freetv.fun/live/san-sha-wei-shi-21.php
+三沙卫视,https://t.freetv.fun/live/san-sha-wei-shi-22.m3u8
+三沙卫视,https://t.freetv.fun/live/san-sha-wei-shi-2-1.php
+三沙卫视,https://t.freetv.fun/live/san-sha-wei-shi-2-1.m3u8
+三沙卫视,https://t.freetv.fun/live/san-sha-wei-shi-22.php
 三沙卫视,https://t.freetv.fun/live/san-sha-wei-shi-20.m3u8
+三沙卫视,https://t.freetv.fun/live/san-sha-wei-shi-21.m3u8
 人间卫视,https://t.freetv.fun/live/ren-jian-wei-shi-7-1.m3u8
 人间卫视,https://t.freetv.fun/live/ren-jian-wei-shi-4-2.m3u8
 人间卫视,https://t.freetv.fun/live/ren-jian-wei-shi-2-1.m3u8
@@ -2481,7 +2564,10 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 兵团卫视,http://113.64.146.99:9901/hls/85/index.m3u8
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 兵团卫视,https://t.freetv.fun/live/bing-tuan-wei-shi-14.m3u8
+兵团卫视,https://t.freetv.fun/live/bing-tuan-wei-shi-4-1.m3u8
+兵团卫视,https://t.freetv.fun/live/bing-tuan-wei-shi-5.m3u8
 兵团卫视,https://t.freetv.fun/live/bing-tuan-wei-shi-17.m3u8
+兵团卫视,https://t.freetv.fun/live/bing-tuan-wei-shi-19.m3u8
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226525/index.m3u8
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226531/index.m3u8
@@ -2525,7 +2611,7 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 黑龙江卫视,http://106.39.160.155/live.aishang.ctlcdn.com/00000110240131_1/playlist.m3u8?CONTENTID=00000110240131_1&AUTHINFO=FABqh274XDn8fkurD5614t+1RvYajgx+a3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom+XaXZYzB/QfYjeYzGgKhP/do+Xpr4quVxlkA+ubKvbU1XwJFRgrbX+nTs60JauQUrav8kLj/PH8LxkDFpzvkq75UfeY/VNDZygRZLw4j+Xtwhj/IuXf1hJAU0X+heT7g==&USERTOKEN=eHKuwve/35NVIR5qsO5XsuB0O2BhR0KR
 黑龙江卫视,http://154.36.187.125/histar5.php?id=129
 黑龙江卫视,http://154.36.187.125/histar5.php?id=heilongjiang
-黑龙江卫视,http://61.136.172.236:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://183.11.239.36:808/hls/48/index.m3u8
 黑龙江卫视,http://106.53.99.30/tv/20250803.php?id=龙江卫视
 黑龙江卫视,http://106.53.99.30/tv/jzb.php?id=hljws
 黑龙江卫视,http://39.164.174.139:5000/nl.m3u8?id=HLJWSHD
@@ -2536,8 +2622,10 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 黑龙江卫视,http://www.cdnstv.com:6398/hls/1125/index.m3u8
 黑龙江卫视,http://113.15.109.216:59901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://58.17.48.228:808/hls/54/index.m3u8
-黑龙江卫视,http://183.11.239.36:808/hls/48/index.m3u8
 黑龙江卫视,http://113.64.146.99:9901/hls/70/index.m3u8
+黑龙江卫视,https://t.freetv.fun/live/hei-long-jiang-wei-shi-1-2.m3u8
+黑龙江卫视,https://t.freetv.fun/live/hei-long-jiang-wei-shi-11.php
+黑龙江卫视,https://t.freetv.fun/live/hei-long-jiang-wei-shi-12.m3u8
 黑龙江卫视,https://t.freetv.fun/live/hei-long-jiang-wei-shi-18.m3u8
 黑龙江卫视,https://t.freetv.fun/live/hei-long-jiang-wei-shi-14.m3u8
 黑龙江卫视,https://t.freetv.fun/live/hei-long-jiang-wei-shi-15.m3u8
@@ -2573,8 +2661,6 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 内蒙古卫视,http://182.150.23.74:808/hls/37/index.m3u8
 内蒙古卫视,http://cssbyd.imwork.net:8082/hls/44/index.m3u8
 内蒙古卫视,http://111.61.236.247:9081/hls/48/index.m3u8
-内蒙古卫视,http://123.130.84.106:8154/tsfile/live/0109_1.m3u8
-内蒙古卫视,http://123.130.84.106:8154/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,http://106.53.99.30/tv/20250803.php?id=蒙古卫视
 内蒙古卫视,http://39.164.174.139:5000/nl.m3u8?id=NMGWS
 内蒙古卫视,http://8.138.7.223/tv/migu3.php?id=nmws
@@ -2588,6 +2674,9 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 内蒙古卫视,http://52zb.work/nmg.php?id=nmws
 内蒙古卫视,http://113.64.146.99:9901/hls/76/index.m3u8
 内蒙古卫视,http://113.64.146.99:9901/hls/79/index.m3u8
+内蒙古卫视,https://t.freetv.fun/live/nei-meng-gu-wei-shi-6.m3u8
+内蒙古卫视,https://t.freetv.fun/live/nei-meng-gu-wei-shi-1-2.m3u8
+内蒙古卫视,https://t.freetv.fun/live/nei-meng-gu-wei-shi-1-2.smil
 内蒙古卫视,https://t.freetv.fun/live/nei-meng-gu-wei-shi-15.m3u8
 内蒙古卫视,https://t.freetv.fun/live/nei-meng-gu-wei-shi-16.m3u8
 内蒙古卫视,https://t.freetv.fun/live/nei-meng-gu-wei-shi-18.m3u8
@@ -2664,6 +2753,7 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 大湾区卫视,http://119.123.176.146:8086/hls/29/index.m3u8
 大湾区卫视,http://113.64.146.99:9901/hls/63/index.m3u8
 大湾区卫视,http://8.138.7.223/tv/gd.php?id=0008
+大湾区卫视,https://t.freetv.fun/live/da-wan-qu-wei-shi-3.m3u8
 大湾区卫视,https://t.freetv.fun/live/da-wan-qu-wei-shi-gao-qing-26.m3u8
 大湾区卫视,https://t.freetv.fun/live/da-wan-qu-wei-shi-gao-qing-27.m3u8
 大湾区卫视,https://t.freetv.fun/live/da-wan-qu-wei-shi-gao-qing-28.m3u8
@@ -2713,6 +2803,8 @@ CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 凤凰香港,http://1.95.83.42:9908/fhx.php?id=fhhk
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
+凤凰香港,https://t.freetv.fun/live/feng-huang-xiang-gang-4.m3u8
+凤凰香港,https://t.freetv.fun/live/feng-huang-xiang-gang-5.php
 星空卫视,https://t.freetv.fun/live/xing-kong-wei-shi-2-1.m3u8
 星空卫视,https://t.freetv.fun/live/xing-kong-wei-shi-3.m3u8
 星空卫视,https://t.freetv.fun/live/xing-kong-wei-shi-1-1.m3u8
@@ -2758,10 +2850,13 @@ TVB无线新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_wxxw.flv
 TVB无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 TVB无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 TVB无线新闻,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
+TVB无线新闻,https://t.freetv.fun/live/wu-xian-xin-wen-1.m3u8
+TVB无线新闻,https://t.freetv.fun/live/wu-xian-xin-wen-3.m3u8
 TVBS新闻,https://t.freetv.fun/live/tvbsxin-wen-tai-3.m3u8
 TVBS新闻,https://t.freetv.fun/live/tvbsxin-wen-6.m3u8
 TVBS新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8574/.m3u8
 TVBS新闻,http://www.myrealgod.cloudns.be:5000/litv/4gtv-4gtv072
+TVBS新闻,https://t.freetv.fun/live/tvbsxin-wen.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
@@ -2848,6 +2943,7 @@ Now新闻,https://gdfire2.67890123.cn:8088/live/nowxw01.m3u8
 台视新闻,https://t.freetv.fun/live/tai-shi-xin-wen-6.php
 台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+台视新闻,https://t.freetv.fun/live/tai-shi-xin-wen-1-1.m3u8
 大爱电视,https://t.freetv.fun/live/da-ai-dian-shi-1.m3u8
 大爱电视,https://t.freetv.fun/live/da-ai-dian-shi-3.m3u8
 大爱电视,https://t.freetv.fun/live/da-ai-dian-shi-10.m3u8
@@ -2858,7 +2954,6 @@ Now新闻,https://gdfire2.67890123.cn:8088/live/nowxw01.m3u8
 大爱电视,https://t.freetv.fun/live/da-ai-dian-shi-1-1.m3u8
 大爱电视,https://t.freetv.fun/live/da-ai-dian-shi-9.m3u8
 大爱电视,https://t.freetv.fun/live/da-ai-dian-shi.m3u8
-大爱电视,https://t.freetv.fun/live/da-ai-dian-shi-1.ts
 环球电视,https://t.freetv.fun/live/huan-qiu-dian-shi-2.m3u8
 中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-6.m3u8
 中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-11.m3u8
@@ -2896,7 +2991,9 @@ Now新闻,https://gdfire2.67890123.cn:8088/live/nowxw01.m3u8
 中天新闻,https://gdfire2.67890123.cn:8088/live/ztxw201.m3u8
 中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztxw.flv
 中天新闻,http://222.128.55.152:9080/live/fc.m3u8
-中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-5.m3u8
+中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-4.php
+中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-3.m3u8
+中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-1-1.m3u8
 中天娱乐,https://t.freetv.fun/live/zhong-tian-yu-le-1.m3u8
 中天娱乐,https://t.freetv.fun/live/zhong-tian-yu-le.m3u8
 中天娱乐,https://t.freetv.fun/live/zhong-tian-yu-le-2.m3u8
@@ -2935,6 +3032,8 @@ Now新闻,https://gdfire2.67890123.cn:8088/live/nowxw01.m3u8
 中视新闻,https://t.freetv.fun/live/zhong-shi-xin-wen-14.m3u8
 中视新闻,https://t.freetv.fun/live/zhong-shi-xin-wen-2-1.m3u8
 中视新闻,https://t.freetv.fun/live/zhong-shi-xin-wen-4.php
+中视新闻,https://t.freetv.fun/live/zhong-shi-xin-wen-2.php
+中视新闻,https://t.freetv.fun/live/zhong-shi-xin-wen-2.m3u8
 中视菁采,https://t.freetv.fun/live/zhong-shi-jing-cai-12.m3u8
 中视菁采,https://t.freetv.fun/live/zhong-shi-jing-cai-10.m3u8
 中视菁采,https://t.freetv.fun/live/zhong-shi-jing-cai-2-2.m3u8
@@ -2998,6 +3097,8 @@ Now新闻,https://gdfire2.67890123.cn:8088/live/nowxw01.m3u8
 民视,https://t.freetv.fun/live/min-shi-3-2.php
 民视,https://t.freetv.fun/live/min-shi-4-1.php
 民视,http://www.myrealgod.cloudns.be:5000/litv/4gtv-4gtv002
+民视,https://t.freetv.fun/live/min-shi-4.php
+民视,https://t.freetv.fun/live/min-shi-4.m3u8
 民视,https://t.freetv.fun/live/min-shi-2-2.m3u8
 民视影剧,https://t.freetv.fun/live/min-shi-ying-ju-10.m3u8
 民视影剧,https://t.freetv.fun/live/min-shi-ying-ju-2-1.m3u8
@@ -3043,6 +3144,10 @@ Now新闻,https://gdfire2.67890123.cn:8088/live/nowxw01.m3u8
 民视新闻,https://t.freetv.fun/live/min-shi-xin-wen-2-1.php
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,http://www.myrealgod.cloudns.be:5000/litv/litv-ftv13
+民视新闻,https://t.freetv.fun/live/min-shi-xin-wen-tai-2.m3u8
+民视新闻,https://t.freetv.fun/live/min-shi-xin-wen-tai-1.m3u8
+民视新闻,https://t.freetv.fun/live/min-shi-xin-wen-4.m3u8
+民视新闻,https://t.freetv.fun/live/min-shi-xin-wen-4.php
 民视新闻,https://t.freetv.fun/live/min-shi-xin-wen-3-1.m3u8
 民视台湾,https://t.freetv.fun/live/min-shi-tai-wan-13.m3u8
 民视台湾,https://t.freetv.fun/live/min-shi-tai-wan-7.m3u8
@@ -3063,7 +3168,6 @@ Now新闻,https://gdfire2.67890123.cn:8088/live/nowxw01.m3u8
 民视台湾,https://t.freetv.fun/live/min-shi-tai-wan-4-1.m3u8
 民视台湾,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mstw.flv
 民视台湾,https://t.freetv.fun/live/min-shi-tai-wan-3.m3u8
-民视台湾,https://t.freetv.fun/live/min-shi-tai-wan-4.php
 民视第一,https://t.freetv.fun/live/min-shi-di-yi-1-1.m3u8
 民视第一,https://t.freetv.fun/live/min-shi-di-yi-11.m3u8
 民视第一,https://t.freetv.fun/live/min-shi-di-yi-10.m3u8
@@ -3101,6 +3205,7 @@ Now新闻,https://gdfire2.67890123.cn:8088/live/nowxw01.m3u8
 民视旅游,https://t.freetv.fun/live/min-shi-lu-you-13.m3u8
 民视旅游,https://t.freetv.fun/live/min-shi-lu-you-2-1.m3u8
 民视旅游,https://t.freetv.fun/live/min-shi-lu-you-9.m3u8
+民视旅游,https://t.freetv.fun/live/min-shi-lu-you.php
 民视综艺,https://t.freetv.fun/live/min-shi-zong-yi-15.m3u8
 民视综艺,https://t.freetv.fun/live/min-shi-zong-yi-3-1.m3u8
 民视综艺,https://t.freetv.fun/live/min-shi-zong-yi-10.m3u8
@@ -3120,6 +3225,7 @@ Now新闻,https://gdfire2.67890123.cn:8088/live/nowxw01.m3u8
 有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u
 有线新闻,http://61.10.2.141:80/live_freedirect/freehd209_h.live/chunklist.m3u8
+有线新闻,https://t.freetv.fun/live/you-xian-xin-wen.m3u8
 耀才财经,https://t.freetv.fun/live/yao-cai-cai-jing-2-1.m3u8
 耀才财经,https://t.freetv.fun/live/yao-cai-cai-jing-1-1.m3u8
 耀才财经,https://t.freetv.fun/live/yao-cai-cai-jing-3.m3u8
@@ -3160,8 +3266,8 @@ Now新闻,https://gdfire2.67890123.cn:8088/live/nowxw01.m3u8
 寰宇新闻,https://t.freetv.fun/live/huan-yu-xin-wen-7.m3u8
 寰宇新闻,https://t.freetv.fun/live/huan-yu-xin-wen-4.php
 寰宇新闻,https://gdfire2.67890123.cn:8088/live/hyxw01.m3u8
-寰宇新闻,https://t.freetv.fun/live/huan-yu-xin-wen-1.m3u8
-寰宇新闻,https://t.freetv.fun/live/huan-yu-xin-wen-5.php
+寰宇新闻,https://t.freetv.fun/live/huan-yu-xin-wen-3.m3u8
+寰宇新闻,https://t.freetv.fun/live/huan-yu-xin-wen-3.php
 澳亚卫视,https://t.freetv.fun/live/ao-ya-wei-shi-5.m3u8
 澳亚卫视,https://t.freetv.fun/live/ao-ya-wei-shi-6.m3u8
 澳亚卫视,https://t.freetv.fun/live/ao-ya-wei-shi-gao-qing.m3u8
@@ -3171,8 +3277,8 @@ Now新闻,https://gdfire2.67890123.cn:8088/live/nowxw01.m3u8
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
 澳门莲花,https://t.freetv.fun/live/ao-men-lian-hua-1-2.m3u8
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
+澳门莲花,https://t.freetv.fun/live/ao-men-lian-hua.m3u8
 澳门莲花,https://t.freetv.fun/live/ao-men-lian-hua-1.m3u8
-澳门莲花,https://t.freetv.fun/live/ao-men-lian-hua-1-1.m3u8
 东森新闻,https://t.freetv.fun/live/dong-sen-xin-wen-15.m3u8
 东森新闻,https://t.freetv.fun/live/dong-sen-xin-wen-1-2.m3u8
 东森新闻,https://t.freetv.fun/live/dong-sen-xin-wen-16.m3u8
@@ -3199,10 +3305,13 @@ Now新闻,https://gdfire2.67890123.cn:8088/live/nowxw01.m3u8
 东森新闻,https://t.freetv.fun/live/dong-sen-xin-wen-2.php
 东森新闻,https://t.freetv.fun/live/dong-sen-xin-wen-4.php
 东森新闻,https://gdfire2.67890123.cn:8088/live/dsxw01.m3u8
+东森新闻,https://t.freetv.fun/live/dong-sen-xin-wen-1.php
+东森新闻,https://t.freetv.fun/live/dong-sen-xin-wen-1.ts
 东森综合,https://t.freetv.fun/live/dong-sen-zong-he-3.m3u8
 东森超视,https://t.freetv.fun/live/dong-sen-chao-shi-5.m3u8
 东森超视,https://t.freetv.fun/live/dong-sen-chao-shi-6.m3u8
 东森超视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_dscs.flv
+东森超视,https://t.freetv.fun/live/dong-sen-chao-shi-2.php
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -3222,6 +3331,7 @@ Now新闻,https://gdfire2.67890123.cn:8088/live/nowxw01.m3u8
 RTHK32,https://t.freetv.fun/live/rthk32-3.m3u8
 RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 RTHK32,https://cdn5.163189.xyz/live/rthk32/stream.m3u8
+RTHK32,https://t.freetv.fun/live/rthk32-2.m3u8
 
 
 电影频道,#genre#
@@ -3560,6 +3670,8 @@ iHOT,#genre#
 五星体育,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
 五星体育,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 五星体育,http://8.138.7.223/tv/shtv.php?id=wxty
+五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-5.m3u8
+五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-5.php
 劲爆体育,https://t.freetv.fun/live/jing-bao-ti-yu-gao-qing.m3u8
 劲爆体育,http://39.164.174.139:5000/nl.m3u8?id=JBTYHD
 劲爆体育,http://8.138.7.223/tv/migu3.php?id=jbty
@@ -3640,6 +3752,7 @@ iHOT,#genre#
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-16.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-17.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-15.m3u8
+广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-18.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-29.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-30.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-31.m3u8
