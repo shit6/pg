@@ -2984,7 +2984,7 @@ https://live.freetv.top/huyayqk.m3u,#genre#
 https://live.freetv.top/douyuyqk.m3u,#genre#
 http://wx.thego.cn/hk.txt,#genre#
 https://live.zhoujie218.top/tv/iptv4.txt,#genre#
-支持作者,https://vd2.bdstatic.com/mda-sctj0f96cn79js4n/1080p/cae_h264/1774710384405617311/mda-sctj0f96cn79js4n.mp4
+靖天映画,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34838
 刘德华电影,https://live.metshop.top/huya/11342424
 周星驰电影,https://live.metshop.top/huya/11342412
 成龙电影,https://live.metshop.top/huya/11342386
@@ -2994,7 +2994,6 @@ https://live.zhoujie218.top/tv/iptv4.txt,#genre#
 沈腾电影,https://live.metshop.top/huya/11601968
 电影谍战片,http://live.metshop.top/huya/21059587?cdn=alicdn
 龙祥电影,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34825
-黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8
 九台,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
 江津新闻,http://222.179.155.21:1935/ch1.m3u8?zzhongqd
 汪清,http://stream5.jlntv.cn/wq/sd/live.m3u8?zjild
@@ -3267,6 +3266,7 @@ HunanTV(2160p),http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMS
 https://iptv-org.github.io/iptv/countries/us.m3u,#genre#
 AmericanHorrors,http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 AsianCultureTV,https://cdn.vegasplus.us/vegas/actv/playlist.m3u8
+CineSony,https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 CNBC,http://4.30.180.36:8420/cnbc/index.m3u8?token=test
 ComedyCentral,http://4.30.180.36:8420/comedycentral/index.m3u8?token=test
 DisneyChannelHDEast,http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
