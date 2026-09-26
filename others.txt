@@ -3142,6 +3142,7 @@ CCTVStormFootball,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 CCTVTheFirstTheater,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
 CCTVWomen'sFashionSD,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 CCTVWorldGeographySD,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+ChaozhouPublicChannel,http://113.64.146.48:1688/hls/4/index.m3u8
 CTS,rtmp://59.124.75.138:1935/sat/tv111
 GuangzhouTV,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
 HarbinMovieChannel,https://stream.hrbtv.net/yspd/playlist.m3u8
@@ -3151,11 +3152,15 @@ HunanTV(2160p),http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMS
 https://iptv-org.github.io/iptv/countries/us.m3u,#genre#
 AmericanHorrors,http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 CBSWHIO-TV,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-whiobreaking-ono/playlist.m3u8
+CinemaxActionEastHD,https://sra72yz.s.gy/CINEMAX_ACTION_HD.m3u8
 CT-NLiveStream2(360p)[Not24/7],http://video.ct-n.com/live/web2stream/playlist.m3u8
 FaithTV,https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithTV.smil/playlist.m3u8
+HBODrama,https://sra72yz.s.gy/HBO_DRAMA_HD.m3u8
 LogosTV(Spain)[Not24/7],https://streamer1.streamhost.org/salive/logosH/master.m3u8
 NewK-POP,https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus
 NewK.MOVIES,https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_id=newid_343&tp=samsung_tvplus
+NickJr.(UnitedStates)EastHD,https://sra72yz.s.gy/NICK_JR_HD.m3u8
+Nicktoons(UnitedStates),https://sra72yz.s.gy/NICKTOONS_HD.m3u8
 
 
 https://iptv-org.github.io/iptv/countries/tw.m3u,#genre#
