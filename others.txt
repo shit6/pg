@@ -4204,17 +4204,6 @@ https://tv.iill.top/m3u/Live,#genre#
 https://tv.iill.top/m3u/Sport,#genre#
 https://live.freetv.top/huyayqk.m3u,#genre#
 https://live.freetv.top/douyuyqk.m3u,#genre#
-竹叶的熊猫,https://www.goodiptv.club/douyu/3870925
-翼风110,https://www.goodiptv.club/douyu/3573342
-为世人撑伞,https://www.goodiptv.club/douyu/2614972
-哈利影视,https://www.goodiptv.club/douyu/8475821
-白燥No1,https://www.goodiptv.club/douyu/280064
-芳芳说故事,https://www.goodiptv.club/douyu/9401905
-心叽酱,https://www.goodiptv.club/douyu/9488056
-我的超能力女友,https://www.goodiptv.club/douyu/9501159
-Acer丶宏正,https://www.goodiptv.club/douyu/10670244
-
-
 http://wx.thego.cn/hk.txt,#genre#
 https://live.zhoujie218.top/tv/iptv4.txt,#genre#
 刘德华电影,https://live.metshop.top/huya/11342424
@@ -4501,12 +4490,15 @@ HunanTV(2160p),http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMS
 https://iptv-org.github.io/iptv/countries/us.m3u,#genre#
 AmericanHorrors,http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 CaliforniaMusicChannel,https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8
+ESNETV,http://190.217.66.92:8000/play/a0fp/index.m3u8
 EstrellaTVWMBC-TV,http://d029dcec.kazmazpaz.ru/iptv/GVR4V8HYAGBS5V/1098/manifest.m3u8
 FaithTV,https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithTV.smil/playlist.m3u8
 GemShoppingNetwork,https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8
 MNTWWOR-TV,http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts
+ParamountNetwork(432p),http://193.254.245.162/PARAMOUNT-CHANNEL/index.m3u8
 TVSNostalgia(472p),https://rpn.bozztv.com/gusa/gusa-nostalgia/index.m3u8
 UniMasMountain,http://168.228.44.241:9997/play/a09e/index.m3u8
+VH1(432p),http://193.254.245.162/VH1/index.m3u8
 XITEReggaeVibes,https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8
 
 
