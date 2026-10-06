@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml.gz"
-#EXTINF:-1  tvg-name="20261006 09:04" tvg-logo="https://epg.112114.free.hr/logo/20261006 09:04.png"  group-title="更新时间",20261006 09:04
+#EXTINF:-1  tvg-name="20261007 07:28" tvg-logo="https://epg.112114.free.hr/logo/20261007 07:28.png"  group-title="更新时间",20261007 07:28
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1  tvg-name="CCTV1" tvg-logo="https://epg.112114.free.hr/logo/CCTV1.png"  group-title="央视频道",CCTV1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
@@ -1677,8 +1677,6 @@ https://live.metshop.top/huya/21059596
 http://kkk.888.3116598.xyz/api.php?n=tttt&id=HNbgwe&tk=FgM0vQMejxvG
 #EXTINF:-1  tvg-name="万合出品" tvg-logo="https://epg.112114.free.hr/logo/万合出品.png"  group-title="电影频道",万合出品
 https://www.goodiptv.club/douyu/9220456
-#EXTINF:-1  tvg-name="仙剑奇侠传" tvg-logo="https://epg.112114.free.hr/logo/仙剑奇侠传.png"  group-title="电视剧频道",仙剑奇侠传
-http://8.155.43.98:35455/yy/1382749903
 #EXTINF:-1  tvg-name="鹊刀门传奇" tvg-logo="https://epg.112114.free.hr/logo/鹊刀门传奇.png"  group-title="电视剧频道",鹊刀门传奇
 http://8.155.43.98:35455/yy/1355344777
 #EXTINF:-1  tvg-name="射雕英雄传" tvg-logo="https://epg.112114.free.hr/logo/射雕英雄传.png"  group-title="电视剧频道",射雕英雄传
@@ -1705,8 +1703,6 @@ http://8.155.43.98:35455/yy/1355652820
 http://tx.flv.huya.com/src/1250011-1250011-5368756364640256-2789274536-10057-A-0-1.flv?wsSecret=ea31e98767cb86af25e5a8195a41226c&wsTime=61c07294&uid=581998485&seqid=1640520618000.0&t=103&uuid=3033579190&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 #EXTINF:-1  tvg-name="第一滴血全集" tvg-logo="https://epg.112114.free.hr/logo/第一滴血全集.png"  group-title="电视剧频道",第一滴血全集
 http://8.155.43.98:35455/yy/1354932355
-#EXTINF:-1  tvg-name="速度与激情集" tvg-logo="https://epg.112114.free.hr/logo/速度与激情集.png"  group-title="电视剧频道",速度与激情集
-http://8.155.43.98:35455/yy/1382736911
 #EXTINF:-1  tvg-name="83射雕英雄传" tvg-logo="https://epg.112114.free.hr/logo/83射雕英雄传.png"  group-title="电视剧频道",83射雕英雄传
 http://8.155.43.98:35455/yy/1354210357
 #EXTINF:-1  tvg-name="95神雕侠侣粤" tvg-logo="https://epg.112114.free.hr/logo/95神雕侠侣粤.png"  group-title="电视剧频道",95神雕侠侣粤
@@ -1717,10 +1713,6 @@ http://8.155.43.98:35455/yy/1382745084
 http://8.155.43.98:35455/yy/1354930969
 #EXTINF:-1  tvg-name="花千骨电视剧" tvg-logo="https://epg.112114.free.hr/logo/花千骨电视剧.png"  group-title="电视剧频道",花千骨电视剧
 http://8.155.43.98:35455/yy/1354943110
-#EXTINF:-1  tvg-name="我的体育老师" tvg-logo="https://epg.112114.free.hr/logo/我的体育老师.png"  group-title="电视剧频道",我的体育老师
-http://8.155.43.98:35455/yy/1382745169
-#EXTINF:-1  tvg-name="如果岁月轮播" tvg-logo="https://epg.112114.free.hr/logo/如果岁月轮播.png"  group-title="电视剧频道",如果岁月轮播
-http://8.155.43.98:35455/yy/1382736883
 #EXTINF:-1  tvg-name="流金岁月轮播" tvg-logo="https://epg.112114.free.hr/logo/流金岁月轮播.png"  group-title="电视剧频道",流金岁月轮播
 http://8.155.43.98:35455/yy/1382749906
 #EXTINF:-1  tvg-name="欢乐颂电视剧" tvg-logo="https://epg.112114.free.hr/logo/欢乐颂电视剧.png"  group-title="电视剧频道",欢乐颂电视剧
@@ -1729,20 +1721,12 @@ http://8.155.43.98:35455/douyu/3756989
 http://8.155.43.98:35455/douyu/9650792
 #EXTINF:-1  tvg-name="我的前半生剧" tvg-logo="https://epg.112114.free.hr/logo/我的前半生剧.png"  group-title="电视剧频道",我的前半生剧
 http://8.155.43.98:35455/yy/1382735564
-#EXTINF:-1  tvg-name="伪装者电视剧" tvg-logo="https://epg.112114.free.hr/logo/伪装者电视剧.png"  group-title="电视剧频道",伪装者电视剧
-http://8.155.43.98:35455/yy/1354936244
 #EXTINF:-1  tvg-name="火蓝刀锋轮播" tvg-logo="https://epg.112114.free.hr/logo/火蓝刀锋轮播.png"  group-title="电视剧频道",火蓝刀锋轮播
 http://8.155.43.98:35455/yy/1382737892
-#EXTINF:-1  tvg-name="二炮手电视剧" tvg-logo="https://epg.112114.free.hr/logo/二炮手电视剧.png"  group-title="电视剧频道",二炮手电视剧
-http://8.155.43.98:35455/yy/1354930964
 #EXTINF:-1  tvg-name="炮神电视轮播" tvg-logo="https://epg.112114.free.hr/logo/炮神电视轮播.png"  group-title="电视剧频道",炮神电视轮播
 http://8.155.43.98:35455/yy/22089862
-#EXTINF:-1  tvg-name="风筝电视轮播" tvg-logo="https://epg.112114.free.hr/logo/风筝电视轮播.png"  group-title="电视剧频道",风筝电视轮播
-http://8.155.43.98:35455/yy/1354931585
 #EXTINF:-1  tvg-name="科幻Fans轮播" tvg-logo="https://epg.112114.free.hr/logo/科幻Fans轮播.png"  group-title="电视剧频道",科幻Fans轮播
 http://8.155.43.98:35455/douyu/3508304
-#EXTINF:-1  tvg-name="邵氏影院频视" tvg-logo="https://epg.112114.free.hr/logo/邵氏影院频视.png"  group-title="电视剧频道",邵氏影院频视
-http://8.155.43.98:35455/douyu/4246519
 #EXTINF:-1  tvg-name="贾玲小品" tvg-logo="https://epg.112114.free.hr/logo/贾玲小品.png"  group-title="综艺频道",贾玲小品
 https://www.goodiptv.club/douyu/10419541
 #EXTINF:-1  tvg-name="宋小宝小品" tvg-logo="https://epg.112114.free.hr/logo/宋小宝小品.png"  group-title="综艺频道",宋小宝小品
