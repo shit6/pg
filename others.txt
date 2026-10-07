@@ -4485,6 +4485,7 @@ GuangzhouTV,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
 HarbinMovieChannel,https://stream.hrbtv.net/yspd/playlist.m3u8
 HebiNewsChannel[Not24/7],http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
 HunanTV(2160p),http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+XizangTVChinese,https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8
 
 
 https://iptv-org.github.io/iptv/countries/us.m3u,#genre#
@@ -4498,8 +4499,16 @@ EstrellaTVWMBC-TV,http://d029dcec.kazmazpaz.ru/iptv/GVR4V8HYAGBS5V/1098/manifest
 FaithTV,https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithTV.smil/playlist.m3u8
 FoxBusinessNetwork(576p),https://tvsen6.aynaott.com/foxbusiness/index.m3u8
 GemShoppingNetwork,https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8
+Maxcine2,https://live20.bozztv.com/giatvplayout7/giatv-209163/playlist.m3u8
+Maxcine,https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8
+MaxcineComedy,https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8
+MaxcineFamily,https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8
+MaxcineKids,https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8
 MBC1USA,https://sh.cdn1-stmify.workers.dev/out/v1/MBC_1_USA/index.m3u8
+MBC3USA,https://sh.cdn1-stmify.workers.dev/out/v1/MBC_3_USA/index.m3u8
 MNTWWOR-TV,http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts
+NickJr.(UnitedStates)EastHD,http://107.167.16.138/nickjr/index.m3u8?token=test
+Nicktoons(UnitedStates),http://41.205.93.154/NICKTOONS/index.m3u8
 Novelisima,http://138.59.177.78:9999/play/a0gg/index.m3u8
 ParamountNetwork(432p),http://193.254.245.162/PARAMOUNT-CHANNEL/index.m3u8
 TVEInternacionalAmerica(576p)[Geo-blocked],https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8
