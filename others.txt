@@ -2620,10 +2620,24 @@ HunanTV(2160p),http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMS
 
 
 https://iptv-org.github.io/iptv/countries/us.m3u,#genre#
+AmericanHeroesChannel,http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8
+AnimalPlanet,http://23.239.31.26:8989/animalplanet/index.m3u8
+AnimalPlanetEastHD,http://193.254.245.162/ANIMAL-PLANET/index.m3u8
+CNNChile,http://190.110.96.238:8000/play/a0f5/index.m3u8
+CookingChannel,http://23.237.104.106:8080/USA_COOKING/index.m3u8
+DiscoveryChannel[Geo-blocked],http://212.5.144.156:8080/discovery/index.m3u8
 FIFA+UnitedStates,https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+FoodNetwork,http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 GCNAmerica,http://liveen24-manminglobal3.ktcdn.co.kr/liveen24/gcnus_1300k.stream/playlist.m3u8
+HLN,http://23.237.104.106:8080/USA_HLN/index.m3u8
+InvestigationDiscovery[Geo-blocked],http://212.5.144.156:8080/id/index.m3u8
+MagnoliaNetwork,http://190.197.41.183/MAGNOLIA_NETWORK/index.m3u8
+MBC1USA[Geo-blocked],https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8
+MBC3USA[Geo-blocked],https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
 OutsideTV,https://outsidetv-firetv.amagi.tv/playlist.m3u8
+OWN,http://23.237.104.106:8080/USA_OWN/index.m3u8
 RevryLatinX,https://linear-142.frequency.stream/dist/24i/142/hls/master/playlist.m3u8
+RTNChicago,https://651c69fa2ff4e.streamlock.net/3707/live1/chunklist.m3u8
 TelemundoCorpusChristi,https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 WeatherNation,https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
 
