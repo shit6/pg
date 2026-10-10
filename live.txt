@@ -1,5 +1,5 @@
 更新时间,#genre#
-20261010 07:43,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+20261011 07:06,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 
 
 央视频道,#genre#
@@ -803,6 +803,7 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 电影_变形金刚,https://live.metshop.top/huya/21059596
 动作影院,http://kkk.888.3116598.xyz/api.php?n=tttt&id=HNbgwe&tk=FgM0vQMejxvG
 喜剧影院,http://kkk.888.3116598.xyz/api.php?n=tttt&id=aRqMtM&tk=FgM0vQMejxvG
+万合出品,https://www.goodiptv.club/douyu/9220456
 
 
 电视剧频道,#genre#
@@ -820,6 +821,11 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 
 
 综艺频道,#genre#
+贾玲小品,https://www.goodiptv.club/douyu/10419541
+宋小宝小品,https://www.goodiptv.club/douyu/9817729
+开心麻花小品,https://www.goodiptv.club/douyu/10153463
+赵本山小品,https://www.goodiptv.club/douyu/9817716
+许君聪小品,https://www.goodiptv.club/douyu/10419558
 
 
 NewTV,#genre#
@@ -1020,6 +1026,7 @@ iHOT,#genre#
 
 
 国际台,#genre#
+CNN,https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8
 新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 
 
